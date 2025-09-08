@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Mohammed Omar Faiaz Onim</h1>
-<h3 align="center">A passionate competitive programmer and android developer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I'm Mohammed Omar Faiaz Onim — a passionate Competitive Programmer and Flutter Developer from Bangladesh.</h1>
+<h3 align="center">🎓 I’m currently pursuing a B.Sc. in Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET).</h3>
+<h3 align="center">💻 I love solving challenging algorithmic problems, building impactful software solutions, and continuously learning new technologies.</h3>
+<h3 align="center">🚀 My areas of interest include Mobile App Development (Flutter), Backend Development, and Machine Learning.</h3>
+<h3 align="center">🏆 Actively participating in programming contests (ICPC, Codeforces, CodeChef, AtCoder) to sharpen problem-solving skills.</h3>
+<h3 align="center">📌 Always open to collaborating on projects, contributing to open-source, and exploring innovative ideas.</h3>
 <img align="right" "alt=Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdomarfaiazonim&label=Profile%20views&color=0e75b6&style=flat" alt="mdomarfaiazonim" /> </p>
